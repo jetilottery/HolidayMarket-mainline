@@ -1,0 +1,96 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "est de {@minRTP} %",
+    "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "prizeValue": "Valeur du lot",
+    "description": "Description",
+    "tilePrizeDescription": "Gain pour des symboles identiques",
+    "coinPrizeDescription": "Gain boni Cabane",
+    "wheelPrizeDescription": "Gain boni Couronne",
+    "overallChances": "Globalement, vous avez 1 chance sur {odds} de gagner un lot à chaque partie.",
+    "prizeDivision": "Répartition des lots",
+    "prizeRemaining": "Nombre approximatif de lots restants",
+    "oddsPerPlay": "Chances par partie"
+  },
+  "title": "HolidayMarket",
+  "MenuCommand": {
+    "price": "Coût",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_autoPlayBonus": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_retry": "RETRY",
+    "button_playAgain": {
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+    "wb_button_start": "COMMENCER",
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+    "message_nonWin": "MEILLEURE CHANCE \nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+    "plateBonus": "BONI",
+    "coinDesc": "Choisissez des portes pour dévoiler des lots.\nDécouvrir le symbole ENCAISSER met fin au jeu boni.",
+    "coinTotal": "GAIN BONI {0}",
+    "coinCollect": "ENCAISSER",
+    "wheelDesc": "Appuyez sur JOUER pour lancer la roue.\nGagnez le montant en surbrillance\nlorsque la roue s'immobilise.",
+    "wheelReady": "PRÊT À JOUER",
+    "wheelSpin": "JEU EN COURS",
+    "wheelWin": "GAIN BONI",
+    "youWon": "GAIN BONI {0}",
+    "howToPlay": "COMMENT JOUER",
+    "coinBonus": "JEU BONI CABANE",
+    "wheelBonus": "JEU BONI COURONNE",
+    "page1": "Sélectionnez chaque décoration pour dévoiler un symbole et un lot. Trouvez trois symboles identiques pour gagner le lot correspondant. Découvrez une décoration dorée pour déclencher un jeu boni.\n\n",
+    "page2": "Choisissez des portes pour révéler des lots. Découvrez ENCAISSER pour mettre fin au jeu boni.",
+    "page3": "Appuyez sur JOUER pour lancer la roue. Gagnez le montant en surbrillance lorsque la roue s'immobilise.",
+    "winUpTo": "GAGNEZ JUSQU’À {0}!",
+    "revealForBonusLand": "DÉCOUVREZ UNE DÉCORATION DORÉE\nPOUR DÉCLENCHER UN JEU BONI",
+    "revealForBonusPort": "DÉCOUVREZ UNE DÉCORATION DORÉE\nPOUR DÉCLENCHER UN JEU BONI",
+    "matchThreeToWin": "OBTENEZ 3 SYMBOLES IDENTIQUES POUR GAGNER!",
+    "wheelWinAmount" : "GAIN BONI\n{0}"
+  }
+}

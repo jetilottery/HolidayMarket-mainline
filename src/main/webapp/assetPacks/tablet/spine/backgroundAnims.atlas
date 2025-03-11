@@ -1,0 +1,128 @@
+
+backgroundAnims.png
+size: 1457,1875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/fairyLights_land_1
+  rotate: false
+  xy: 2, 86
+  size: 1440, 84
+  orig: 1440, 87
+  offset: 0, 3
+  index: -1
+BG/fairyLights_land_2
+  rotate: false
+  xy: 2, 172
+  size: 1440, 87
+  orig: 1440, 87
+  offset: 0, 0
+  index: -1
+BG/fairyLights_picker_land_1
+  rotate: false
+  xy: 2, 1073
+  size: 1440, 800
+  orig: 1440, 810
+  offset: 0, 10
+  index: -1
+BG/fairyLights_picker_port_1
+  rotate: true
+  xy: 2, 261
+  size: 810, 1366
+  orig: 810, 1440
+  offset: 0, 74
+  index: -1
+BG/fairyLights_port_1
+  rotate: true
+  xy: 1370, 261
+  size: 810, 85
+  orig: 810, 92
+  offset: 0, 7
+  index: -1
+BG/fairyLights_port_2
+  rotate: false
+  xy: 2, 2
+  size: 810, 82
+  orig: 810, 92
+  offset: 0, 10
+  index: -1
+
+backgroundAnims2.png
+size: 1616,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/fairyLights_picker_land_2
+  rotate: true
+  xy: 2, 2
+  size: 1440, 800
+  orig: 1440, 810
+  offset: 0, 10
+  index: -1
+BG/fairyLights_picker_port_2
+  rotate: false
+  xy: 804, 76
+  size: 810, 1366
+  orig: 810, 1440
+  offset: 0, 74
+  index: -1
+
+backgroundAnims.jpg
+size: 1444,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_jpg/maingame-bg_landscape
+  rotate: false
+  xy: 2, 814
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+BG_jpg/maingame-bg_portrait
+  rotate: true
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+backgroundAnims2.jpg
+size: 1444,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_jpg/picker_bg_landscape
+  rotate: false
+  xy: 2, 814
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+BG_jpg/wheelBonus_bg_landscape
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+backgroundAnims3.jpg
+size: 1626,1441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_jpg/picker_bg_port
+  rotate: false
+  xy: 2, 2
+  size: 810, 1437
+  orig: 810, 1437
+  offset: 0, 0
+  index: -1
+BG_jpg/wheelBonus_bg_portrait
+  rotate: false
+  xy: 814, 56
+  size: 810, 1383
+  orig: 810, 1383
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,313 @@
+
+highlightFX.png
+size: 1163,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goldify plaque reverse/Goldify plaque reverse_00000
+  rotate: false
+  xy: 2, 2
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00001
+  rotate: false
+  xy: 174, 2
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00002
+  rotate: false
+  xy: 346, 2
+  size: 166, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00003
+  rotate: false
+  xy: 514, 2
+  size: 147, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00004
+  rotate: false
+  xy: 663, 2
+  size: 128, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00005
+  rotate: false
+  xy: 793, 2
+  size: 108, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00006
+  rotate: false
+  xy: 903, 2
+  size: 89, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00007
+  rotate: false
+  xy: 994, 2
+  size: 70, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00008
+  rotate: false
+  xy: 1066, 2
+  size: 50, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00009
+  rotate: false
+  xy: 1118, 2
+  size: 31, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+Goldify plaque reverse/Goldify plaque reverse_00010
+  rotate: false
+  xy: 1151, 2
+  size: 10, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+
+highlightFX2.png
+size: 315,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winAmountWinFill/winAmountWinFill_00000
+  rotate: true
+  xy: 209, 10
+  size: 11, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00001
+  rotate: false
+  xy: 244, 10
+  size: 34, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00002
+  rotate: true
+  xy: 280, 2
+  size: 55, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00003
+  rotate: true
+  xy: 279, 59
+  size: 77, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00004
+  rotate: true
+  xy: 279, 138
+  size: 99, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00005
+  rotate: true
+  xy: 279, 239
+  size: 121, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00006
+  rotate: true
+  xy: 244, 45
+  size: 143, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00007
+  rotate: true
+  xy: 209, 23
+  size: 165, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00008
+  rotate: false
+  xy: 2, 177
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00009
+  rotate: true
+  xy: 174, 190
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00010
+  rotate: false
+  xy: 2, 142
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00023
+  rotate: false
+  xy: 2, 142
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00024
+  rotate: false
+  xy: 2, 142
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00025
+  rotate: false
+  xy: 2, 142
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00031
+  rotate: false
+  xy: 2, 142
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00011
+  rotate: true
+  xy: 209, 190
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00012
+  rotate: false
+  xy: 2, 107
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00013
+  rotate: true
+  xy: 244, 190
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00014
+  rotate: false
+  xy: 2, 72
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00015
+  rotate: false
+  xy: 2, 37
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00016
+  rotate: false
+  xy: 2, 2
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00017
+  rotate: true
+  xy: 174, 18
+  size: 170, 33
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00018
+  rotate: false
+  xy: 2, 488
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 0
+  index: -1
+winAmountWinFill/winAmountWinFill_00019
+  rotate: false
+  xy: 2, 442
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 0
+  index: -1
+winAmountWinFill/winAmountWinFill_00020
+  rotate: false
+  xy: 2, 396
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 0
+  index: -1
+winAmountWinFill/winAmountWinFill_00021
+  rotate: false
+  xy: 2, 350
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 0
+  index: -1
+winAmountWinFill/winAmountWinFill_00022
+  rotate: true
+  xy: 174, 362
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 0
+  index: -1
+winAmountWinFill/winAmountWinFill_00026
+  rotate: false
+  xy: 2, 304
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00027
+  rotate: true
+  xy: 220, 362
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00028
+  rotate: false
+  xy: 2, 258
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00029
+  rotate: true
+  xy: 266, 362
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 11
+  index: -1
+winAmountWinFill/winAmountWinFill_00030
+  rotate: false
+  xy: 2, 212
+  size: 170, 44
+  orig: 170, 55
+  offset: 0, 11
+  index: -1

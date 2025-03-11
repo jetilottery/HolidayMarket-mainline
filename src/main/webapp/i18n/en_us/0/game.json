@@ -1,0 +1,96 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Description",
+    "tilePrizeDescription": "Symbol Match Win",
+    "coinPrizeDescription": "Cabin Bonus Win",
+    "wheelPrizeDescription": "Wreath Bonus Win",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+  },
+  "title": "HolidayMarket",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE 0",
+    "footer_ticketCost": "TICKET COST 0",
+    "ticketSelect_ticketCost": "TICKET COST 0",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY  0"
+    },
+    "footer_win": {
+      "BUY": "WIN 0",
+      "TRY": "DEMO WIN 0"
+    },
+    "button_buy": {
+      "BUY": "BUY 0",
+      "TRY": "TRY 0"
+    },
+    "button_try": "TRY 0",
+    "button_continue": "CONTINUE 0",
+    "button_moveToMoney": "MOVE TO MONEY 0",
+    "button_autoPlay": "REVEAL ALL 0",
+    "button_autoPlayBonus": "AUTO REVEAL 0",
+    "button_stop": "STOP 0",
+    "button_retry": "RETRY",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN 0",
+      "TRY": "TRY AGAIN 0"
+    },
+    "button_tryAgain": "TRY AGAIN 0",
+    "button_ok": "OK 0",
+    "button_exit": "EXIT 0",
+    "wb_button_start": "START 0",
+    "error_button_exit": "EXIT 0",
+    "error_title": "ERROR 0",
+    "message_nonWin": "BETTER LUCK\nNEXT TIME 0",
+    "message_win": {
+      "BUY": "TOTAL WIN 0",
+      "TRY": "TOTAL DEMO WIN 0"
+    },
+    "plateBonus": "BONUS 0",
+    "coinDesc": "Select Doors to reveal prizes. Reveal COLLECT to end the bonus.0",
+    "coinTotal": "BONUS WIN {0}",
+    "coinCollect": "COLLECT 0",
+    "wheelDesc": "Press START to spin the wheel.\nWin the highlighted amount\nwhen the wheel stops 0",
+    "wheelReady": "READY TO SPIN 0",
+    "wheelSpin": "SPINNING 0",
+    "wheelWin": "BONUS WIN 0",
+    "youWon": "BONUS WIN {0}0",
+    "howToPlay": "HOW TO PLAY 0",
+    "coinBonus": "CABIN BONUS 0",
+    "wheelBonus": "WREATH BONUS 0",
+    "page1": "Select each Ornament to reveal a symbol and a prize amount.\n\nFind three identical symbols to win a prize.\n\nReveal a Gold Ornament to trigger a bonus game 0\n\n",
+    "page2": "Select Doors to reveal prizes.\n\nReveal COLLECT to end the bonus. 0",
+    "page3": "Press START to spin the wheel.\n\nWin the highlighted amount when the wheel stops. 0",
+    "winUpTo": "WIN UP TO {0}! 0",
+    "revealForBonusLand": "REVEAL A GOLD ORNAMENT\nTO TRIGGER A BONUS GAME 0",
+    "revealForBonusPort": "REVEAL A GOLD ORNAMENT\nTO TRIGGER A BONUS GAME 0",
+    "matchThreeToWin": "MATCH THREE SYMBOLS TO WIN! 0",
+    "wheelWinAmount" : "BONUS WIN\n{0}"
+  }
+}

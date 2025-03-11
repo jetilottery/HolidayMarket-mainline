@@ -1,0 +1,106 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+        "subheading": "Ticketpreis: {ticketCost}",
+        "prizeLevel": "Preis-Stufe",
+        "prizeValue": "Preis-Wert",
+        "description": "Beschreibung",
+        "tilePrizeDescription": "Symbolübereinstimmungsgewinn",
+        "coinPrizeDescription": "Hütten-Bonusgewinn",
+        "wheelPrizeDescription": "Kranz-Bonusgewinn",
+        "overallChances": "Die Chance bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {odds}.",
+        "prizeDivision": "Preis-Aufteilung",
+        "prizeRemaining": "Ungefähr verbleibende Preise",
+        "oddsPerPlay": "Chancen pro Spiel"
+    },
+    "title": "HolidayMarket",
+    "MenuCommand":
+    {
+        "price": "Preis",
+        "stake": "Einsatz",
+        "howToPlay": "Hilfe",
+        "paytable": "Gewinntabelle",
+        "close": "Schliessen",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "Ein",
+            "off": "Aus"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Fehler: ",
+        "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+    },
+    "Game":
+    {
+        "footer_balance": "GUTHABEN",
+        "footer_ticketCost": "TICKETPREIS",
+        "ticketSelect_ticketCost": "TICKETPREIS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "VERSUCHEN "
+        },
+        "footer_win":
+        {
+            "BUY": "GEWINN",
+            "TRY": "DEMO-GEWINN"
+        },
+        "button_buy":
+        {
+            "BUY": "KAUFEN",
+            "TRY": "VERSUCHEN"
+        },
+        "button_try": "VERSUCHEN",
+        "button_continue": "FORTSETZEN",
+        "button_moveToMoney": "UM GELD SPIELEN",
+        "button_autoPlay": "ALLE AUFDECKEN",
+        "button_autoPlayBonus": "AUTO-AUFDECKEN",
+        "button_stop": "STOPP",
+        "button_retry": "RETRY",
+        "button_playAgain":
+        {
+            "BUY": "ERNEUT SPIELEN",
+            "TRY": "ERNEUT VERSUCHEN"
+        },
+        "button_tryAgain": "ERNEUT VERSUCHEN",
+        "button_ok": "OKAY",
+        "button_exit": "BEENDEN",
+        "wb_button_start": "START",
+        "error_button_exit": "BEENDEN",
+        "error_title": "FEHLER",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+        "message_win":
+        {
+            "BUY": "GESAMTGEWINN",
+            "TRY": "GESAMTER DEMO-GEWINN"
+        },
+        "plateBonus": "BONUS",
+        "coinDesc": "Wählen Sie Türen, um Preise aufzudecken.\nWenn Sie EINSAMMELN aufdecken, endet der Bonus.",
+        "coinTotal": "BONUSGEWINN {0}",
+        "coinCollect": "EINSAMMELN",
+        "wheelDesc": "Drücken Sie START, um das Rad zu\ndrehen. Sie gewinnen den\nhervorgehobenen Betrag,\nwenn das Rad anhält.",
+        "wheelReady": "ZUM DREHEN BEREIT",
+        "wheelSpin": "DREHT",
+        "wheelWin": "BONUSGEWINN",
+        "youWon": "BONUSGEWINN {0}",
+        "howToPlay": "SPIELANLEITUNG",
+        "coinBonus": "HÜTTEN-BONUS",
+        "wheelBonus": "KRANZ-BONUS",
+        "page1": "Wählen Sie jedes Ornament aus, um ein Symbol und einen Preisbetrag aufzudecken. Wenn Sie drei identische Symbole finden, gewinnen Sie den entsprechenden Preis. Sollten Sie ein Goldornament aufdecken, dann lösen Sie ein Bonusspiel aus.\n\n",
+        "page2": "Wählen Sie Türen, um Preise aufzudecken. Wenn Sie EINSAMMELN aufdecken, endet der Bonus.",
+        "page3": "Drücken Sie START, um das Rad zu drehen. Sie gewinnen den hervorgehobenen Betrag, wenn das Rad anhält.",
+        "winUpTo": "GEWINNEN SIE BIS ZU {0}!",
+        "revealForBonusLand": "DECKEN SIE EIN GOLDORNAMENT AUF\nUND SIE LÖSEN EIN BONUSSPIEL AUS",
+        "revealForBonusPort": "DECKEN SIE EIN GOLDORNAMENT AUF\nUND SIE LÖSEN EIN BONUSSPIEL AUS",
+        "matchThreeToWin": "WENN DREI SYMBOLE ÜBEREINSTIMMEN, GEWINNEN SIE!",
+        "wheelWinAmount": "BONUSGEWINN\n{0}"
+    }
+}

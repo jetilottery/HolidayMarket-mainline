@@ -1,0 +1,1001 @@
+
+WinAnims.jpg
+size: 1945,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goldSweep/goldSweep_03
+  rotate: true
+  xy: 2, 417
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_13
+  rotate: true
+  xy: 2, 417
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_04
+  rotate: true
+  xy: 2, 2
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_05
+  rotate: true
+  xy: 384, 417
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_06
+  rotate: true
+  xy: 384, 2
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_07
+  rotate: true
+  xy: 766, 417
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_08
+  rotate: true
+  xy: 766, 2
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_09
+  rotate: false
+  xy: 1148, 450
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_10
+  rotate: true
+  xy: 1563, 417
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_11
+  rotate: false
+  xy: 1148, 68
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+goldSweep/goldSweep_12
+  rotate: true
+  xy: 1563, 2
+  size: 413, 380
+  orig: 413, 380
+  offset: 0, 0
+  index: -1
+
+WinAnims2.jpg
+size: 1994,1642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newParticles/newParticles_00
+  rotate: true
+  xy: 2, 1232
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_01
+  rotate: true
+  xy: 2, 822
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_02
+  rotate: true
+  xy: 2, 412
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_03
+  rotate: true
+  xy: 2, 2
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_04
+  rotate: true
+  xy: 256, 1232
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_05
+  rotate: true
+  xy: 256, 822
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_06
+  rotate: true
+  xy: 256, 412
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_07
+  rotate: true
+  xy: 256, 2
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_08
+  rotate: false
+  xy: 510, 1388
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_09
+  rotate: false
+  xy: 920, 1388
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_10
+  rotate: false
+  xy: 1330, 1388
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_11
+  rotate: true
+  xy: 1740, 1232
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_12
+  rotate: false
+  xy: 510, 1134
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_13
+  rotate: false
+  xy: 920, 1134
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_14
+  rotate: false
+  xy: 1330, 1134
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_15
+  rotate: true
+  xy: 1740, 822
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_16
+  rotate: true
+  xy: 510, 412
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_17
+  rotate: false
+  xy: 510, 880
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_18
+  rotate: true
+  xy: 510, 2
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_19
+  rotate: true
+  xy: 764, 470
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_20
+  rotate: false
+  xy: 920, 880
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_21
+  rotate: false
+  xy: 1330, 880
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_22
+  rotate: true
+  xy: 764, 60
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_23
+  rotate: false
+  xy: 1018, 626
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_24
+  rotate: true
+  xy: 1428, 470
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_25
+  rotate: false
+  xy: 1018, 372
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_26
+  rotate: true
+  xy: 1682, 412
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_27
+  rotate: true
+  xy: 1428, 60
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_28
+  rotate: true
+  xy: 1682, 2
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+newParticles/newParticles_29
+  rotate: false
+  xy: 1018, 118
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+
+WinAnims3.jpg
+size: 1940,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particlesIn/partIn_12
+  rotate: false
+  xy: 2, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_13
+  rotate: false
+  xy: 2, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_14
+  rotate: false
+  xy: 325, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_15
+  rotate: false
+  xy: 2, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_16
+  rotate: false
+  xy: 325, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_17
+  rotate: false
+  xy: 648, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_18
+  rotate: false
+  xy: 2, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_19
+  rotate: false
+  xy: 325, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_20
+  rotate: false
+  xy: 648, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_21
+  rotate: false
+  xy: 971, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_22
+  rotate: false
+  xy: 2, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_23
+  rotate: false
+  xy: 325, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_24
+  rotate: false
+  xy: 648, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_25
+  rotate: false
+  xy: 971, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_26
+  rotate: false
+  xy: 1294, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_27
+  rotate: false
+  xy: 1617, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_28
+  rotate: false
+  xy: 325, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_29
+  rotate: false
+  xy: 648, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_30
+  rotate: false
+  xy: 971, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_31
+  rotate: false
+  xy: 1294, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_32
+  rotate: false
+  xy: 1617, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_33
+  rotate: false
+  xy: 648, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_34
+  rotate: false
+  xy: 971, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_35
+  rotate: false
+  xy: 1294, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_36
+  rotate: false
+  xy: 1617, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_37
+  rotate: false
+  xy: 971, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_38
+  rotate: false
+  xy: 1294, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_39
+  rotate: false
+  xy: 1617, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesIn/partIn_40
+  rotate: false
+  xy: 1294, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+
+WinAnims4.jpg
+size: 1137,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particlesLoop/partLoop_40
+  rotate: false
+  xy: 2, 832
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_41
+  rotate: false
+  xy: 2, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_42
+  rotate: false
+  xy: 325, 832
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_43
+  rotate: false
+  xy: 2, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_44
+  rotate: false
+  xy: 325, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_45
+  rotate: false
+  xy: 648, 832
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_46
+  rotate: false
+  xy: 2, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_47
+  rotate: false
+  xy: 325, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_48
+  rotate: false
+  xy: 648, 666
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_49
+  rotate: true
+  xy: 971, 675
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_50
+  rotate: false
+  xy: 2, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_51
+  rotate: false
+  xy: 325, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_52
+  rotate: false
+  xy: 648, 500
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_53
+  rotate: false
+  xy: 2, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_54
+  rotate: false
+  xy: 325, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_55
+  rotate: false
+  xy: 648, 334
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_56
+  rotate: true
+  xy: 971, 352
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_57
+  rotate: false
+  xy: 325, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_58
+  rotate: false
+  xy: 648, 168
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_59
+  rotate: false
+  xy: 648, 2
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+particlesLoop/partLoop_60
+  rotate: true
+  xy: 971, 29
+  size: 321, 164
+  orig: 321, 164
+  offset: 0, 0
+  index: -1
+
+WinAnims5.jpg
+size: 1858,1460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plaquePartLoop/plaquePartLoop_10
+  rotate: true
+  xy: 2, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_29
+  rotate: true
+  xy: 2, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_11
+  rotate: true
+  xy: 2, 240
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_12
+  rotate: false
+  xy: 2, 28
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_13
+  rotate: true
+  xy: 214, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_14
+  rotate: true
+  xy: 214, 240
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_15
+  rotate: true
+  xy: 426, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_16
+  rotate: true
+  xy: 426, 240
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_17
+  rotate: false
+  xy: 612, 28
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_18
+  rotate: false
+  xy: 1222, 1248
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_19
+  rotate: false
+  xy: 1222, 1036
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_20
+  rotate: false
+  xy: 1222, 824
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_21
+  rotate: false
+  xy: 1222, 612
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_22
+  rotate: true
+  xy: 1222, 2
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_23
+  rotate: true
+  xy: 1434, 2
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_24
+  rotate: true
+  xy: 1646, 2
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_25
+  rotate: true
+  xy: 638, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_26
+  rotate: true
+  xy: 638, 240
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_27
+  rotate: true
+  xy: 850, 850
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+plaquePartLoop/plaquePartLoop_28
+  rotate: true
+  xy: 850, 240
+  size: 608, 210
+  orig: 608, 210
+  offset: 0, 0
+  index: -1
+
+WinAnims.png
+size: 298,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/goldSegment
+  rotate: false
+  xy: 2, 2
+  size: 294, 122
+  orig: 295, 122
+  offset: 0, 0
+  index: -1
+
+WinAnims6.jpg
+size: 1984,1970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WinPlaqueParticles/WPP_00
+  rotate: true
+  xy: 2, 1518
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_01
+  rotate: true
+  xy: 2, 1066
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_02
+  rotate: true
+  xy: 2, 614
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_03
+  rotate: true
+  xy: 2, 162
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_04
+  rotate: false
+  xy: 308, 1664
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_05
+  rotate: false
+  xy: 760, 1664
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_06
+  rotate: false
+  xy: 1212, 1664
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_07
+  rotate: true
+  xy: 1664, 1518
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_08
+  rotate: false
+  xy: 308, 1358
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_09
+  rotate: false
+  xy: 760, 1358
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_10
+  rotate: false
+  xy: 1212, 1358
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_11
+  rotate: true
+  xy: 1664, 1066
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_12
+  rotate: true
+  xy: 308, 614
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_13
+  rotate: true
+  xy: 308, 162
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_14
+  rotate: false
+  xy: 614, 1052
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_15
+  rotate: false
+  xy: 1066, 1052
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_16
+  rotate: false
+  xy: 1518, 760
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_17
+  rotate: false
+  xy: 614, 746
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_18
+  rotate: false
+  xy: 1066, 746
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_19
+  rotate: false
+  xy: 1518, 454
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_20
+  rotate: true
+  xy: 614, 2
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_21
+  rotate: false
+  xy: 920, 440
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_22
+  rotate: true
+  xy: 1372, 2
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_23
+  rotate: true
+  xy: 1678, 2
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1
+WinPlaqueParticles/WPP_24
+  rotate: false
+  xy: 920, 134
+  size: 450, 304
+  orig: 450, 304
+  offset: 0, 0
+  index: -1

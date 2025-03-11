@@ -1,0 +1,106 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+        "subheading": "Opłata za LOS: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "prizeValue": "Wartość wygranej",
+        "description": "Opis",
+        "tilePrizeDescription": "Wygrana dopasowania symbolu",
+        "coinPrizeDescription": "Wygrana bonusu chatki",
+        "wheelPrizeDescription": "Wygrana bonusu wieńca",
+        "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+        "prizeDivision": "Stopień nagrody",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną"
+    },
+    "title": "Bombki",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Zasady gry",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_continue": "KONTYNUUJ",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_autoPlayBonus": "AUTO",
+        "button_stop": "STOP",
+        "button_retry": "RETRY",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+        "wb_button_start": "ZAKRĘĆ",
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+        "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+        "message_win":
+        {
+            "BUY": "WYGRANA ŁĄCZNA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+        "plateBonus": "BONUS",
+        "coinDesc": "Otwieraj drzwi Świątecznej Chatki aby wygrać.\nOdkryj symbol Zbierz, aby zakończyć rundę bonusową.",
+        "coinTotal": "WYGRANA BONUSOWA {0}",
+        "coinCollect": "ZBIERZ",
+        "wheelDesc": "Naciśnij przycisk Zakręć, aby zakręcić kołem.\nPo zatrzymaniu koła,\nwygrasz podświetloną kwotę.",
+        "wheelReady": "WYGRANA BONUSOWA",
+        "wheelSpin": "OBRACANIE",
+        "wheelWin": "WYGRANA BONUSOWA",
+        "youWon": "WYGRANA BONUSOWA {0}",
+        "howToPlay": "ZASADY GRY",
+        "coinBonus": "ŚWIĄTECZNA CHATKA",
+        "wheelBonus": "ŚWIĄTECZNE KOŁO FORTUNY",
+        "page1": "Wybierz każdą bombkę, aby odkryć symbol i kwotę wygranej.\n\nZnajdź trzy takie same symbole, aby wygrać przypisaną do nich wygraną.\n\nOdkryj złotą bombkę, aby uruchomić rundę bonusową.\n\n",
+        "page2": "Odkrywaj drzwiczki i zdobywaj wygrane.\n\nOdkryj symbol zbierz, aby zakończyć bonus.",
+        "page3": "Naciśnij przycisk zakręć, aby zakręcić kołem.\n\nWygraj kwotę przypisaną do miejsca w którym zatrzyma się koło.",
+        "winUpTo": "WYGRAJ DO {0}!",
+        "revealForBonusLand": "ODKRYJ ZŁOTĄ BOMBKĘ,\nABY URUCHOMIĆ RUNDĘ BONUSOWĄ.",
+        "revealForBonusPort": "ODKRYJ ZŁOTĄ BOMBKĘ,\nABY URUCHOMIĆ RUNDĘ BONUSOWĄ.",
+        "matchThreeToWin": "DOPASUJ TRZY SYMBOLE, ABY WYGRAĆ!",
+        "wheelWinAmount": "{0}"
+    }
+}

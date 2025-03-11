@@ -1,0 +1,1547 @@
+
+coverAnims.png
+size: 1622,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusPickDoor
+  rotate: true
+  xy: 1444, 709
+  size: 253, 176
+  orig: 640, 462
+  offset: 194, 147
+  index: -1
+shadow
+  rotate: true
+  xy: 1591, 582
+  size: 125, 22
+  orig: 128, 23
+  offset: 2, 0
+  index: -1
+starFlash
+  rotate: false
+  xy: 2, 2
+  size: 1440, 960
+  orig: 1440, 960
+  offset: 0, 0
+  index: -1
+symbolBaubleCover
+  rotate: false
+  xy: 1444, 530
+  size: 145, 177
+  orig: 145, 177
+  offset: 0, 0
+  index: -1
+symbolBaubleCover2
+  rotate: false
+  xy: 1444, 351
+  size: 145, 177
+  orig: 145, 177
+  offset: 0, 0
+  index: -1
+
+coverAnims2.png
+size: 1170,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaubleCover/symbolBaubleCover_00000
+  rotate: false
+  xy: 129, 89
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+BaubleCover/symbolBaubleCover_00001
+  rotate: false
+  xy: 324, 5
+  size: 120, 89
+  orig: 180, 180
+  offset: 24, 53
+  index: -1
+BaubleCover/symbolBaubleCover_00002
+  rotate: false
+  xy: 2, 9
+  size: 154, 77
+  orig: 180, 180
+  offset: 10, 59
+  index: -1
+BaubleCover/symbolBaubleCover_00003
+  rotate: true
+  xy: 2, 88
+  size: 179, 58
+  orig: 180, 180
+  offset: 0, 68
+  index: -1
+BaubleCover/symbolBaubleCover_00004
+  rotate: true
+  xy: 62, 90
+  size: 177, 65
+  orig: 180, 180
+  offset: 2, 63
+  index: -1
+BaubleCover/symbolBaubleCover_00005
+  rotate: true
+  xy: 408, 101
+  size: 166, 99
+  orig: 180, 180
+  offset: 7, 45
+  index: -1
+BaubleCover/symbolBaubleCover_00006
+  rotate: false
+  xy: 1015, 141
+  size: 153, 126
+  orig: 180, 180
+  offset: 13, 31
+  index: -1
+BaubleCover/symbolBaubleCover_00007
+  rotate: true
+  xy: 1015, 3
+  size: 136, 145
+  orig: 180, 180
+  offset: 20, 21
+  index: -1
+BaubleCover/symbolBaubleCover_00008
+  rotate: false
+  xy: 900, 108
+  size: 113, 159
+  orig: 180, 180
+  offset: 30, 14
+  index: -1
+BaubleCover/symbolBaubleCover_00009
+  rotate: false
+  xy: 244, 96
+  size: 87, 171
+  orig: 180, 180
+  offset: 42, 8
+  index: -1
+BaubleCover/symbolBaubleCover_00010
+  rotate: false
+  xy: 129, 92
+  size: 59, 175
+  orig: 180, 180
+  offset: 55, 5
+  index: -1
+BaubleCover/symbolBaubleCover_00011
+  rotate: false
+  xy: 190, 93
+  size: 52, 174
+  orig: 180, 180
+  offset: 58, 6
+  index: -1
+BaubleCover/symbolBaubleCover_00012
+  rotate: false
+  xy: 333, 96
+  size: 73, 171
+  orig: 180, 180
+  offset: 47, 9
+  index: -1
+BaubleCover/symbolBaubleCover_00013
+  rotate: true
+  xy: 158, 2
+  size: 88, 164
+  orig: 180, 180
+  offset: 39, 13
+  index: -1
+BaubleCover/symbolBaubleCover_00014
+  rotate: false
+  xy: 509, 103
+  size: 96, 164
+  orig: 180, 180
+  offset: 35, 13
+  index: -1
+BaubleCover/symbolBaubleCover_00015
+  rotate: false
+  xy: 607, 103
+  size: 96, 164
+  orig: 180, 180
+  offset: 34, 14
+  index: -1
+BaubleCover/symbolBaubleCover_00016
+  rotate: true
+  xy: 446, 2
+  size: 97, 164
+  orig: 180, 180
+  offset: 34, 14
+  index: -1
+BaubleCover/symbolBaubleCover_00017
+  rotate: true
+  xy: 612, 2
+  size: 99, 162
+  orig: 180, 180
+  offset: 33, 15
+  index: -1
+BaubleCover/symbolBaubleCover_00018
+  rotate: true
+  xy: 776, 5
+  size: 100, 157
+  orig: 180, 180
+  offset: 32, 17
+  index: -1
+BaubleCover/symbolBaubleCover_00019
+  rotate: false
+  xy: 705, 107
+  size: 98, 160
+  orig: 180, 180
+  offset: 33, 16
+  index: -1
+BaubleCover/symbolBaubleCover_00020
+  rotate: false
+  xy: 805, 107
+  size: 93, 160
+  orig: 180, 180
+  offset: 36, 15
+  index: -1
+
+coverAnims3.png
+size: 1874,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DoorMouseOver/mouseOver_00
+  rotate: true
+  xy: 1696, 7
+  size: 254, 176
+  orig: 260, 200
+  offset: 1, 12
+  index: -1
+DoorMouseOver/mouseOver_01
+  rotate: true
+  xy: 1696, 263
+  size: 255, 176
+  orig: 260, 200
+  offset: 1, 12
+  index: -1
+DoorMouseOver/mouseOver_02
+  rotate: true
+  xy: 1516, 263
+  size: 255, 178
+  orig: 260, 200
+  offset: 1, 11
+  index: -1
+DoorMouseOver/mouseOver_03
+  rotate: true
+  xy: 1514, 4
+  size: 256, 180
+  orig: 260, 200
+  offset: 1, 10
+  index: -1
+DoorMouseOver/mouseOver_04
+  rotate: true
+  xy: 1330, 4
+  size: 256, 182
+  orig: 260, 200
+  offset: 1, 9
+  index: -1
+DoorMouseOver/mouseOver_05
+  rotate: true
+  xy: 1330, 262
+  size: 256, 184
+  orig: 260, 200
+  offset: 1, 8
+  index: -1
+DoorMouseOver/mouseOver_06
+  rotate: true
+  xy: 1142, 262
+  size: 256, 186
+  orig: 260, 200
+  offset: 1, 7
+  index: -1
+DoorMouseOver/mouseOver_07
+  rotate: true
+  xy: 1142, 4
+  size: 256, 186
+  orig: 260, 200
+  offset: 1, 7
+  index: -1
+DoorMouseOver/mouseOver_08
+  rotate: true
+  xy: 2, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_09
+  rotate: true
+  xy: 2, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_10
+  rotate: true
+  xy: 192, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_11
+  rotate: true
+  xy: 192, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_12
+  rotate: true
+  xy: 382, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_13
+  rotate: true
+  xy: 382, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_14
+  rotate: true
+  xy: 572, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_15
+  rotate: true
+  xy: 572, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_16
+  rotate: true
+  xy: 762, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_17
+  rotate: true
+  xy: 762, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_18
+  rotate: true
+  xy: 952, 261
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+DoorMouseOver/mouseOver_19
+  rotate: true
+  xy: 952, 2
+  size: 257, 188
+  orig: 260, 200
+  offset: 0, 6
+  index: -1
+
+coverAnims4.png
+size: 1230,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DoorOpen/DoorOpen_00
+  rotate: true
+  xy: 200, 36
+  size: 254, 176
+  orig: 320, 260
+  offset: 34, 46
+  index: -1
+DoorOpen/DoorOpen_01
+  rotate: true
+  xy: 556, 46
+  size: 244, 176
+  orig: 320, 260
+  offset: 35, 46
+  index: -1
+DoorOpen/DoorOpen_02
+  rotate: true
+  xy: 378, 36
+  size: 254, 176
+  orig: 320, 260
+  offset: 34, 46
+  index: -1
+DoorOpen/DoorOpen_03
+  rotate: true
+  xy: 2, 33
+  size: 257, 196
+  orig: 320, 260
+  offset: 33, 36
+  index: -1
+DoorOpen/DoorOpen_04
+  rotate: false
+  xy: 1028, 66
+  size: 200, 224
+  orig: 320, 260
+  offset: 32, 22
+  index: -1
+DoorOpen/DoorOpen_05
+  rotate: false
+  xy: 919, 52
+  size: 66, 238
+  orig: 320, 260
+  offset: 32, 15
+  index: -1
+DoorOpen/DoorOpen_06
+  rotate: false
+  xy: 734, 50
+  size: 57, 240
+  orig: 320, 260
+  offset: 0, 14
+  index: -1
+DoorOpen/DoorOpen_07
+  rotate: false
+  xy: 793, 50
+  size: 35, 240
+  orig: 320, 260
+  offset: 22, 14
+  index: -1
+DoorOpen/DoorOpen_08
+  rotate: true
+  xy: 728, 5
+  size: 39, 238
+  orig: 320, 260
+  offset: 32, 15
+  index: -1
+DoorOpen/DoorOpen_09
+  rotate: true
+  xy: 968, 5
+  size: 45, 238
+  orig: 320, 260
+  offset: 32, 15
+  index: -1
+DoorOpen/DoorOpen_10
+  rotate: false
+  xy: 987, 52
+  size: 39, 238
+  orig: 320, 260
+  offset: 32, 15
+  index: -1
+DoorOpen/DoorOpen_11
+  rotate: true
+  xy: 486, 6
+  size: 28, 240
+  orig: 320, 260
+  offset: 32, 14
+  index: -1
+DoorOpen/DoorOpen_12
+  rotate: true
+  xy: 2, 2
+  size: 29, 240
+  orig: 320, 260
+  offset: 28, 14
+  index: -1
+DoorOpen/DoorOpen_13
+  rotate: false
+  xy: 830, 50
+  size: 28, 240
+  orig: 320, 260
+  offset: 29, 14
+  index: -1
+DoorOpen/DoorOpen_14
+  rotate: false
+  xy: 890, 50
+  size: 27, 240
+  orig: 320, 260
+  offset: 31, 14
+  index: -1
+DoorOpen/DoorOpen_15
+  rotate: false
+  xy: 860, 50
+  size: 28, 240
+  orig: 320, 260
+  offset: 32, 14
+  index: -1
+DoorOpen/DoorOpen_16
+  rotate: true
+  xy: 244, 5
+  size: 29, 240
+  orig: 320, 260
+  offset: 32, 14
+  index: -1
+
+coverAnims5.png
+size: 1828,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light sweep/symbolBaubleCover2_00000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+light sweep/symbolBaubleCover2_00018
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+light sweep/symbolBaubleCover2_00001
+  rotate: false
+  xy: 1468, 46
+  size: 121, 137
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00002
+  rotate: false
+  xy: 974, 9
+  size: 128, 174
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00003
+  rotate: false
+  xy: 840, 6
+  size: 132, 177
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00004
+  rotate: false
+  xy: 570, 5
+  size: 133, 178
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00005
+  rotate: false
+  xy: 705, 5
+  size: 133, 178
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00006
+  rotate: false
+  xy: 292, 5
+  size: 137, 178
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00007
+  rotate: false
+  xy: 2, 5
+  size: 144, 178
+  orig: 149, 186
+  offset: 2, 4
+  index: -1
+light sweep/symbolBaubleCover2_00008
+  rotate: false
+  xy: 148, 6
+  size: 142, 177
+  orig: 149, 186
+  offset: 5, 5
+  index: -1
+light sweep/symbolBaubleCover2_00009
+  rotate: false
+  xy: 431, 8
+  size: 137, 175
+  orig: 149, 186
+  offset: 10, 7
+  index: -1
+light sweep/symbolBaubleCover2_00010
+  rotate: false
+  xy: 1104, 11
+  size: 129, 172
+  orig: 149, 186
+  offset: 18, 10
+  index: -1
+light sweep/symbolBaubleCover2_00011
+  rotate: false
+  xy: 1235, 16
+  size: 120, 167
+  orig: 149, 186
+  offset: 27, 15
+  index: -1
+light sweep/symbolBaubleCover2_00012
+  rotate: false
+  xy: 1357, 24
+  size: 109, 159
+  orig: 149, 186
+  offset: 38, 23
+  index: -1
+light sweep/symbolBaubleCover2_00013
+  rotate: false
+  xy: 1591, 34
+  size: 97, 149
+  orig: 149, 186
+  offset: 50, 33
+  index: -1
+light sweep/symbolBaubleCover2_00014
+  rotate: true
+  xy: 1690, 98
+  size: 85, 136
+  orig: 149, 186
+  offset: 62, 46
+  index: -1
+light sweep/symbolBaubleCover2_00015
+  rotate: true
+  xy: 1690, 12
+  size: 84, 122
+  orig: 149, 186
+  offset: 63, 60
+  index: -1
+light sweep/symbolBaubleCover2_00016
+  rotate: true
+  xy: 1690, 12
+  size: 84, 122
+  orig: 149, 186
+  offset: 63, 60
+  index: -1
+light sweep/symbolBaubleCover2_00017
+  rotate: true
+  xy: 1690, 12
+  size: 84, 122
+  orig: 149, 186
+  offset: 63, 60
+  index: -1
+
+coverAnims.jpg
+size: 1490,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/DoorIdle/DoorIdle_00
+  rotate: false
+  xy: 2, 1318
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_01
+  rotate: false
+  xy: 2, 1130
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_02
+  rotate: false
+  xy: 262, 1318
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_03
+  rotate: false
+  xy: 2, 942
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_04
+  rotate: false
+  xy: 262, 1130
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_05
+  rotate: false
+  xy: 522, 1318
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_06
+  rotate: false
+  xy: 2, 754
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_07
+  rotate: false
+  xy: 262, 942
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_08
+  rotate: false
+  xy: 522, 1130
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_09
+  rotate: false
+  xy: 782, 1318
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_10
+  rotate: false
+  xy: 2, 566
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_11
+  rotate: false
+  xy: 262, 754
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_12
+  rotate: false
+  xy: 522, 942
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_13
+  rotate: false
+  xy: 782, 1130
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_14
+  rotate: false
+  xy: 1042, 1318
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_15
+  rotate: false
+  xy: 2, 378
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_16
+  rotate: false
+  xy: 262, 566
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_17
+  rotate: false
+  xy: 522, 754
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_18
+  rotate: false
+  xy: 782, 942
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_19
+  rotate: false
+  xy: 1042, 1130
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_20
+  rotate: true
+  xy: 1302, 1246
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_21
+  rotate: false
+  xy: 2, 190
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_22
+  rotate: false
+  xy: 262, 378
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_23
+  rotate: false
+  xy: 522, 566
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_24
+  rotate: false
+  xy: 782, 754
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_25
+  rotate: false
+  xy: 1042, 942
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_26
+  rotate: true
+  xy: 1302, 986
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_27
+  rotate: false
+  xy: 2, 2
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_28
+  rotate: false
+  xy: 262, 190
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_29
+  rotate: false
+  xy: 522, 378
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_30
+  rotate: false
+  xy: 782, 566
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_31
+  rotate: false
+  xy: 1042, 754
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_32
+  rotate: false
+  xy: 262, 2
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_33
+  rotate: false
+  xy: 522, 190
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_34
+  rotate: false
+  xy: 782, 378
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_35
+  rotate: false
+  xy: 1042, 566
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_36
+  rotate: true
+  xy: 1302, 726
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_37
+  rotate: false
+  xy: 522, 2
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_38
+  rotate: false
+  xy: 782, 190
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_39
+  rotate: false
+  xy: 1042, 378
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_40
+  rotate: true
+  xy: 1302, 466
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_41
+  rotate: false
+  xy: 782, 2
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_42
+  rotate: false
+  xy: 1042, 190
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_43
+  rotate: true
+  xy: 1302, 206
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+nonTrans/DoorIdle/DoorIdle_44
+  rotate: true
+  xy: 1302, 206
+  size: 258, 186
+  orig: 258, 186
+  offset: 0, 0
+  index: -1
+
+coverAnims2.jpg
+size: 1538,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/DustClose/DustHit_01
+  rotate: false
+  xy: 2, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_02
+  rotate: false
+  xy: 213, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_03
+  rotate: true
+  xy: 2, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_04
+  rotate: false
+  xy: 424, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_05
+  rotate: true
+  xy: 258, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_06
+  rotate: false
+  xy: 635, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_07
+  rotate: true
+  xy: 514, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_08
+  rotate: false
+  xy: 846, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_09
+  rotate: true
+  xy: 770, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_10
+  rotate: false
+  xy: 1057, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_11
+  rotate: false
+  xy: 1268, 213
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_12
+  rotate: true
+  xy: 1026, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+nonTrans/DustClose/DustHit_13
+  rotate: true
+  xy: 1282, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+
+coverAnims3.jpg
+size: 1850,1850
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/ParticleReveal/Reveal_00
+  rotate: false
+  xy: 2, 1388
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_01
+  rotate: false
+  xy: 2, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_02
+  rotate: false
+  xy: 464, 1388
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_03
+  rotate: false
+  xy: 2, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_04
+  rotate: false
+  xy: 464, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_05
+  rotate: false
+  xy: 926, 1388
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_06
+  rotate: false
+  xy: 2, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_07
+  rotate: false
+  xy: 464, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_08
+  rotate: false
+  xy: 926, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_09
+  rotate: false
+  xy: 1388, 1388
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_10
+  rotate: false
+  xy: 464, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_11
+  rotate: false
+  xy: 926, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_12
+  rotate: false
+  xy: 1388, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_13
+  rotate: false
+  xy: 926, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_14
+  rotate: false
+  xy: 1388, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_15
+  rotate: false
+  xy: 1388, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+
+coverAnims4.jpg
+size: 1850,1388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/ParticleReveal/Reveal_16
+  rotate: false
+  xy: 2, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_17
+  rotate: false
+  xy: 2, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_18
+  rotate: false
+  xy: 464, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_19
+  rotate: false
+  xy: 2, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_20
+  rotate: false
+  xy: 464, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_21
+  rotate: false
+  xy: 926, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_22
+  rotate: false
+  xy: 1388, 926
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_23
+  rotate: false
+  xy: 464, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_24
+  rotate: false
+  xy: 926, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_25
+  rotate: false
+  xy: 1388, 464
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_26
+  rotate: false
+  xy: 926, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleReveal/Reveal_27
+  rotate: false
+  xy: 1388, 2
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+
+coverAnims5.jpg
+size: 1050,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/ParticleTease/Tease_03
+  rotate: false
+  xy: 2, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_19
+  rotate: false
+  xy: 2, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_04
+  rotate: false
+  xy: 2, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_05
+  rotate: false
+  xy: 264, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_06
+  rotate: false
+  xy: 2, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_07
+  rotate: false
+  xy: 264, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_08
+  rotate: false
+  xy: 526, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_09
+  rotate: false
+  xy: 2, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_10
+  rotate: false
+  xy: 264, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_11
+  rotate: false
+  xy: 526, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_12
+  rotate: false
+  xy: 788, 788
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_13
+  rotate: false
+  xy: 264, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_14
+  rotate: false
+  xy: 526, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_15
+  rotate: false
+  xy: 788, 526
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_16
+  rotate: false
+  xy: 526, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_17
+  rotate: false
+  xy: 788, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/ParticleTease/Tease_18
+  rotate: false
+  xy: 788, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+
+coverAnims6.png
+size: 1847,1575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbolBaubleShatter/symbolBaubleShatter_00000
+  rotate: true
+  xy: 185, 1427
+  size: 146, 178
+  orig: 1440, 960
+  offset: 647, 391
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00001
+  rotate: false
+  xy: 1101, 1306
+  size: 272, 267
+  orig: 1440, 960
+  offset: 561, 372
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00002
+  rotate: false
+  xy: 1375, 1166
+  size: 470, 407
+  orig: 1440, 960
+  offset: 426, 319
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00003
+  rotate: false
+  xy: 2, 445
+  size: 685, 547
+  orig: 1440, 960
+  offset: 273, 249
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00008
+  rotate: false
+  xy: 763, 643
+  size: 784, 521
+  orig: 1440, 960
+  offset: 656, 37
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00009
+  rotate: false
+  xy: 2, 994
+  size: 759, 362
+  orig: 1440, 960
+  offset: 681, 0
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00010
+  rotate: true
+  xy: 689, 2
+  size: 639, 960
+  orig: 1440, 960
+  offset: 801, 0
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00011
+  rotate: false
+  xy: 813, 1351
+  size: 286, 222
+  orig: 1440, 960
+  offset: 1154, 738
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00012
+  rotate: false
+  xy: 573, 1358
+  size: 238, 215
+  orig: 1440, 960
+  offset: 1202, 536
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00013
+  rotate: false
+  xy: 365, 1374
+  size: 206, 199
+  orig: 1440, 960
+  offset: 1234, 230
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00014
+  rotate: false
+  xy: 5, 1441
+  size: 178, 132
+  orig: 1440, 960
+  offset: 1262, 0
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00015
+  rotate: false
+  xy: 2, 1572
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+coverAnims7.png
+size: 1444,1653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbolBaubleShatter/symbolBaubleShatter_00006
+  rotate: false
+  xy: 2, 713
+  size: 1321, 938
+  orig: 1440, 960
+  offset: 0, 0
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00007
+  rotate: false
+  xy: 2, 2
+  size: 1440, 709
+  orig: 1440, 960
+  offset: 0, 238
+  index: -1
+
+coverAnims8.png
+size: 1745,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbolBaubleShatter/symbolBaubleShatter_00004
+  rotate: true
+  xy: 964, 35
+  size: 1028, 779
+  orig: 1440, 960
+  offset: 30, 114
+  index: -1
+symbolBaubleShatter/symbolBaubleShatter_00005
+  rotate: true
+  xy: 2, 2
+  size: 1061, 960
+  orig: 1440, 960
+  offset: 116, 0
+  index: -1
+
+coverAnims9.png
+size: 1130,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WhiteStars/WhiteStars_28
+  rotate: false
+  xy: 2, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_30
+  rotate: false
+  xy: 2, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_32
+  rotate: false
+  xy: 284, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_34
+  rotate: false
+  xy: 284, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_36
+  rotate: false
+  xy: 566, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_38
+  rotate: false
+  xy: 566, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_40
+  rotate: false
+  xy: 848, 284
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+WhiteStars/WhiteStars_42
+  rotate: false
+  xy: 848, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

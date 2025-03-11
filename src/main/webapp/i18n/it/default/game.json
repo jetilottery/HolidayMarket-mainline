@@ -1,0 +1,106 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "è pari al {@minRTP}%",
+        "RTPrange": "è compreso tra il {@minRTP}% e il {@maxRTP}%",
+        "paybackTitle": "Ritorno previsto",
+        "paybackBody": "Per questo gioco, il ritorno teorico previsto sul lungo termine è pari a {RTP}.",
+        "subheading": "Prezzo del biglietto: {ticketCost}",
+        "prizeLevel": "Livello del premio",
+        "prizeValue": "Valore del premio",
+        "description": "Descrizione",
+        "tilePrizeDescription": "Vincita abbinamento simbolo",
+        "coinPrizeDescription": "Vincita del Bonus Capanna",
+        "wheelPrizeDescription": "Vincita del Bonus Ghirlanda",
+        "overallChances": "Vi è 1 possibilità su {odds} di vincere un premio in ogni partita.",
+        "prizeDivision": "Divisione dei premi",
+        "prizeRemaining": "Premi approssimativi rimanenti",
+        "oddsPerPlay": "Probabilità per partita"
+    },
+    "title": "HolidayMarket",
+    "MenuCommand":
+    {
+        "price": "Prezzo",
+        "stake": "Puntata",
+        "howToPlay": "Aiuto",
+        "paytable": "Tabella dei pagamenti",
+        "close": "Chiudi",
+        "audio":
+        {
+            "sound": "Audio",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Errore: ",
+        "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "PREZZO DEL BIGLIETTO",
+        "ticketSelect_ticketCost": "PREZZO DEL BIGLIETTO",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "PROVA "
+        },
+        "footer_win":
+        {
+            "BUY": "VINCITA",
+            "TRY": "VINCITA DEMO"
+        },
+        "button_buy":
+        {
+            "BUY": "ACQUISTA",
+            "TRY": "PROVA"
+        },
+        "button_try": "PROVA",
+        "button_continue": "CONTINUA",
+        "button_moveToMoney": "GIOCA CON DENARO REALE",
+        "button_autoPlay": "MOSTRA TUTTI",
+        "button_autoPlayBonus": "SCOPERTA AUTOMATICA",
+        "button_stop": "STOP",
+      "button_retry": "RETRY",
+      "button_playAgain":
+        {
+            "BUY": "GIOCA ANCORA",
+            "TRY": "RIPROVA"
+        },
+        "button_tryAgain": "RIPROVA",
+        "button_ok": "OK",
+        "button_exit": "ESCI",
+        "wb_button_start": "INIZIA",
+        "error_button_exit": "ESCI",
+        "error_title": "ERRORE",
+        "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+        "message_win":
+        {
+            "BUY": "VINCITA TOTALE",
+            "TRY": "VINCITA DEMO TOTALE"
+        },
+        "plateBonus": "BONUS",
+        "coinDesc": "Seleziona le porte per rivelare i premi.\nRivela l’opzione RISCUOTI per terminare il bonus.",
+        "coinTotal": "VINCITA BONUS {0}",
+        "coinCollect": "RISCUOTI",
+        "wheelDesc": "Premi INIZIA per fare girare la ruota.\nQuando la ruota si ferma,\nvinci l’importo indicato.\n",
+        "wheelReady": "PRONTO A GIRARE",
+        "wheelSpin": "GIRO IN CORSO",
+        "wheelWin": "VINCITA BONUS",
+        "youWon": "VINCITA BONUS {0}",
+        "howToPlay": "COME GIOCARE",
+        "coinBonus": "BONUS CAPANNA",
+        "wheelBonus": "BONUS GHIRLANDA",
+        "page1": "Seleziona ogni Decorazione per rivelare un simbolo e l'importo di un premio. Trova tre simboli identici per vincere il premio corrispondente. Rivela una Decorazione d’oro per attivare una partita bonus.\n\n",
+        "page2": "Seleziona le porte per rivelare i premi. Rivela l’opzione RISCUOTI per terminare il bonus.",
+        "page3": "Premi INIZIA per fare girare la ruota. Quando la ruota si ferma, vinci l’importo indicato.",
+        "winUpTo": "VINCI FINO A {0}!",
+        "revealForBonusLand": "RIVELA UNA DECORAZIONE D’ORO\nPER ATTIVARE UNA PARTITA BONUS",
+        "revealForBonusPort": "RIVELA UNA DECORAZIONE D’ORO\nPER ATTIVARE UNA PARTITA BONUS",
+        "matchThreeToWin": "ABBINA TRE SIMBOLI PER VINCERE!",
+        "wheelWinAmount": "VINCITA BONUS\n{0}"
+    }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "är {@minRTP} %",
+    "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "prizeValue": "Prisvärde",
+    "description": "Beskrivning",
+    "tilePrizeDescription": "Vinst från symbolmatchning",
+    "coinPrizeDescription": "Vinst från stugbonus",
+    "wheelPrizeDescription": "Vinst från kransbonus",
+    "overallChances": "Sannolikheten att vinna ett pris är 1 på {odds} varje gång man spelar.",
+    "prizeDivision": "Prisindelning",
+    "prizeRemaining": "Ungefärligt antal återstående priser",
+    "oddsPerPlay": "Odds per spel"
+  },
+  "title": "HolidayMarket",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "FÖRSÖK "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "FÖRSÖK"
+    },
+    "button_try": "FÖRSÖK",
+    "button_continue": "FORTSÄTT",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_autoPlayBonus": "AVSLÖJA AUTOMATISKT",
+    "button_stop": "STOPPA",
+    "button_retry": "RETRY",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    "wb_button_start": "STARTA",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+    "plateBonus": "BONUS",
+    "coinDesc": "Välj dörrar för att avslöja priser.\nNär du avslöjar INKASSERA avslutas bonusen.",
+    "coinTotal": "BONUSVINST {0}",
+    "coinCollect": "INKASSERA",
+    "wheelDesc": "Tryck på START för att snurra hjulet.\nDu vinner det markerade beloppet\nnär hjulet stannar.",
+    "wheelReady": "REDO ATT SNURRA",
+    "wheelSpin": "SNURRAR",
+    "wheelWin": "BONUSVINST",
+    "youWon": "BONUSVINST {0}",
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "coinBonus": "STUGBONUS",
+    "wheelBonus": "KRANSBONUS",
+    "page1": "Välj varje ornament för att avslöja en symbol och ett prisbelopp. Hitta tre identiska symboler för att vinna motsvarande pris. Avslöja ett guldornament för att aktivera ett bonusspel.\n\n",
+    "page2": "Välj dörrar för att avslöja priser. När du avslöjar INKASSERA avslutas bonusen.",
+    "page3": "Tryck på START för att snurra hjulet. Du vinner det markerade beloppet när hjulet stannar.",
+    "winUpTo": "VINN UPP TILL {0}!",
+    "revealForBonusLand": "AVSLÖJA ETT GULDORNAMENT\nFÖR ATT AKTIVERA ETT BONUSSPEL",
+    "revealForBonusPort": "AVSLÖJA ETT GULDORNAMENT\nFÖR ATT AKTIVERA ETT BONUSSPEL",
+    "matchThreeToWin": "MATCHA TRE SYMBOLER FÖR ATT VINNA!",
+    "wheelWinAmount" : "BONUSVINST\n{0}"
+  }
+}
