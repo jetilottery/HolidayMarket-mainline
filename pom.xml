@@ -48,7 +48,7 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.buildInfrastructure</groupId>
       <artifactId>jetIWGameGruntHelper</artifactId>
-      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0.2</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
@@ -105,7 +105,7 @@
       <groupId>com.igt.interactive.skbJet.buildInfrastructure</groupId>
       <artifactId>jetGameGruntCompiler</artifactId>
       <classifier>dist</classifier>
-      <version>2.0.3-SNAPSHOT</version>
+      <version>2.0.3</version>
       <type>zip</type>
     </dependency>
     <dependency>
